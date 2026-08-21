@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏫 Saint Albert's International University (SAIU)
 
 <div align="center">
@@ -213,3 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ by Muhammad Jahanzaib
 
 </div>
+=======
+# Saint-Albert-s-International-University
+A professional, fully responsive university web portal for Saint Albert's International University (SAIU), featuring secure online admissions, dynamic course pathways, clean URLs, and efficient email &amp; file logging functionality.
+>>>>>>> 356e5b0d2ae6ffa3c0b84af7f40cf558bb3ec807
