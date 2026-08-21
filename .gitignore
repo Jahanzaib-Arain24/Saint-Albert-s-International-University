@@ -1,0 +1,15 @@
+# Ignore private submission logs (contains user personal info)
+submissions/
+contact_submissions.txt
+application_submissions.txt
+
+# OS generated files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE and Project Tooling config
+.vscode/
+.idea/
+.gemini/
+*.log
