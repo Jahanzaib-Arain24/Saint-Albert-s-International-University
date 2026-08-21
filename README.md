@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏫 Saint Albert's International University (SAIU)
 
 <div align="center">
@@ -137,17 +136,17 @@ To run this PHP project on your local machine, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Jahanzaib-Arain24/Saint-Albert-University.git
+   git clone https://github.com/Jahanzaib-Arain24/Saint-Albert-s-International-University.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd Saint-Albert-University
+   cd Saint-Albert-s-International-University
    ```
 
 3. **Start the PHP built-in server**
    ```bash
-   php -S localhost:5000
+   php -S localhost:5000 router.php
    ```
 
 4. **Access the portal**
@@ -157,12 +156,12 @@ To run this PHP project on your local machine, follow these steps:
 
 ## 💻 Usage
 
-- **Viewing Programs**: Browse the `programs.php` page to review course details, structure, and registration requirements.
+- **Viewing Programs**: Browse the `programs` page to review course details, structure, and registration requirements.
 - **Student Admissions**:
-  1. Open `apply.php` and fill out the detailed form.
+  1. Open `apply` and fill out the detailed form.
   2. Solve the numeric security verification (e.g., `4 + 5 = ?`).
   3. Click **Submit Application**. The data will trigger an email to `info@saiu.education` and log locally to `submissions/application_submissions.txt`.
-- **Contacting the Team**: Use `contact.php` to drop general inquiries which are logged under `submissions/contact_submissions.txt`.
+- **Contacting the Team**: Use `contact` to drop general inquiries which are logged under `submissions/contact_submissions.txt`.
 
 ---
 
@@ -214,7 +213,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ by Muhammad Jahanzaib
 
 </div>
-=======
-# Saint-Albert-s-International-University
-A professional, fully responsive university web portal for Saint Albert's International University (SAIU), featuring secure online admissions, dynamic course pathways, clean URLs, and efficient email &amp; file logging functionality.
->>>>>>> 356e5b0d2ae6ffa3c0b84af7f40cf558bb3ec807
